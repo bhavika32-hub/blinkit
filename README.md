@@ -68,9 +68,3 @@ Analysis revealed key differences in outlet and category performance:
 * Identified opportunities to improve **sales distribution across outlet tiers**
 * Insights can support **better product assortment and promotional strategies**
 * Recommendations may help increase **overall revenue and category performance**
-
----
-
-### 📎 Project Links
-
-* GitHub: https://github.com/bhavika_gandhi
