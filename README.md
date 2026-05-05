@@ -9,7 +9,7 @@ The objective was to analyze outlet performance across different tiers, outlet t
 ### 🛠️ Tools Used
 
 * Power BI
-* Data Modeling (Star Schema)
+* power query
 * DAX
 
 ---
